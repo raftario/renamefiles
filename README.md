@@ -4,7 +4,7 @@ Renames all files in the directory where it is run with correct filenames.
 
 Spaces are replaced by underscores and accented letters by unaccented ones. Special characters except `-`, `_` and `.` are removed.
 
-Written by Raphaël Thériault based on scripts by [François-Xavier Cat](https://github.com/lazywinadmin).  and released under the [MIT Licence](./LICENSE.md).  
+Written by Raphaël Thériault based on scripts by [François-Xavier Cat](https://github.com/lazywinadmin).  and released under the [MIT Licence](LICENSE.md).  
 ps2exe was written by [Ingo Karstein](http://blog.karstein-consulting.com) and reworked by Markus Scholtes and is released under the Microsoft Public Licence.
 
 ## Usage
